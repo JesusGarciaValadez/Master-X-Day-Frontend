@@ -30,6 +30,10 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesusGarciaValadez/Master-X-Day-Frontend.git"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",

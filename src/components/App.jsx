@@ -13,12 +13,8 @@ function App() {
         <header>
           <h2>TrelloReader</h2>
         </header>
-        <AsideBar>
-          hola
-        </AsideBar>
-        <Dashboard>
-          db
-        </Dashboard>
+        <AsideBar />
+        <Dashboard />
       </div>
       <Footer />
     </div>
